@@ -29,7 +29,7 @@
                               </block>
                             </value>
                             <next>
-                              <block type="movement_forward" id="213">
+                              <block type="movement_reverse" id="292">
                                 <next>
                                   <block type="robot_delay" id="215" inline="true">
                                     <value name="DELAY">
@@ -47,7 +47,7 @@
                                               </block>
                                             </value>
                                             <next>
-                                              <block type="movement_forward" id="262">
+                                              <block type="movement_reverse" id="282">
                                                 <next>
                                                   <block type="robot_delay" id="251" inline="true">
                                                     <value name="DELAY">
